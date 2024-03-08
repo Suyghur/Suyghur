@@ -2,6 +2,7 @@
 
 <!--
 **Suyghur/Suyghur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
 Here are some quick things about me:
 
@@ -11,5 +12,5 @@ Here are some quick things about me:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Suyghur&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Suyghur&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Suyghur&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Suyghur&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Suyghur&theme=github)
+<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Suyghur&theme=github) -->
+<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Suyghur&theme=github) -->
